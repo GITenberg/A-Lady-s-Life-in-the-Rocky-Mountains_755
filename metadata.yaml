@@ -1,0 +1,41 @@
+_repo: A-Lady-s-Life-in-the-Rocky-Mountains_755
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bird, Isabella L. (Isabella Lucy)
+    alias: Bishop, Isabella Lucy Bird
+    birthdate: 1831
+    deathdate: 1904
+    gutenberg_agent_id: '393'
+    url: http://www.gutenberg.org/2009/agents/393
+    wikipedia: http://en.wikipedia.org/wiki/Isabella_Bird
+description: The History of the American West Collection is a unique project that
+  provides opportunities for researchers and new readers to easily access and explore
+  works which have previously only been available on library shelves. The Collection
+  brings to life pre-1923 titles focusing on a wide range of topics and experiences
+  in US Western history. From the initial westward migration, to exploration and development
+  of the American West to daily life in the West and intimate pictures of the people
+  who inhabited it, this collection offers American West enthusiasts a new glimpse
+  at some forgotten treasures of American culture. Encompassing genres such as poetry,
+  fiction, nonfiction, tourist guides, biographies and drama, this collection provides
+  a new window to the legend and realities of the American West.
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Rocky Mountains -- Biography'
+- !lcsh 'Women travelers -- Rocky Mountains -- Biography'
+- !lcsh 'Frontier and pioneer life -- Rocky Mountains'
+- !lcsh 'Bird, Isabella L. (Isabella Lucy), 1831-1904 -- Travel -- Rocky Mountains'
+- !lcsh 'Estes Park (Colo.) -- Biography'
+- !lcsh 'Rocky Mountains -- Description and travel'
+- !lcc 'F721'
+- !lcsh 'West (U.S.) -- Description and travel'
+- GITenberg
+title: A Lady's Life in the Rocky Mountains
+url: http://www.gutenberg.org/ebooks/755
